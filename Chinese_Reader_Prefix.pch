@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Chinese Reader' target in the 'Chinese Reader' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
